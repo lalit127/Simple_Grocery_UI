@@ -1,6 +1,20 @@
 # groceryui
 
-A new Flutter project.
+A Simple Grocery App Ui to Understands the Provider State Management.
+
+Resource Link :
+
+https://youtu.be/uSljGJGSl6w by Mitch koko
+
+ScreenShots :
+
+
+![image](https://github.com/lalit127/Simple_Grocery_UI/assets/89827819/a87ae8a9-3f53-4886-a394-4c9e196f09a5)
+![image](https://github.com/lalit127/Simple_Grocery_UI/assets/89827819/0d2d77d3-4481-4f25-aeff-3d603ed98945)
+![image](https://github.com/lalit127/Simple_Grocery_UI/assets/89827819/06200bcd-e632-4ca8-a9b2-be2d2373379a)
+
+
+
 
 ## Getting Started
 
